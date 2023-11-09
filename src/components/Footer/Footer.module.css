@@ -1,0 +1,15 @@
+.container {
+  background: #64317a;
+  color: white;
+  width: 100%;
+  min-height: 34px;
+  padding-block: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container h2 {
+  font-size: 1rem;
+  font-weight: 500;
+}

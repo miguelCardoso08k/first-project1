@@ -1,0 +1,14 @@
+.container strong {
+  color: red;
+}
+
+.container a {
+  text-decoration: none;
+  color: #64317a;
+}
+
+.container a:hover {
+  transition: 0.29s;
+  color: #e099ff;
+  font-size: 1.25rem;
+}
