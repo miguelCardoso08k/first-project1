@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,200;0,300;0,600;0,700;1,400&display=swap");
+
+:root {
+  --gradient: linear-gradient(45deg, blue, red);
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -11,7 +17,7 @@ body {
 }
 
 body {
-  background: #faedff;
+  background: #a99687;
 }
 
 .Tcenter {

@@ -1,0 +1,12 @@
+.SearchButton {
+  background-color: #fff;
+  border-radius: 100%;
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+}
+
+.SearchButton:hover {
+  background-color: #695a4e;
+  transition: 0.5s;
+}
